@@ -1,0 +1,261 @@
+body
+{
+	
+	margin:0;
+	padding:0;
+	font:normal.80em 'trebuchet ms', arial, sans-serif;
+    background: #F4F4EE;
+    color: #5D5D5D;
+    width: 100%
+
+}
+
+header
+{
+margin: 0;
+padding:0;
+height:170px;
+
+}
+ header .slider
+{
+	
+	height:170px;
+	background-image:url("../images/logo.png");
+    background-size:cover;
+    overflow: hidden;
+    width: 100%;
+
+
+
+}
+header .logotext
+{
+	float: left;
+	text-align: center;
+	padding-top:25px;
+	padding-left:70px;
+
+}
+header .logotext h1
+{
+	font-weight: bold;
+	color: #fff;
+	letter-spacing: 5px;
+	border-top: 1px solid #fff;
+	border-bottom:1px solid #fff;
+	padding: 10px 0 10px 0;
+}
+header .logotext h3
+{
+	padding-left:42px;
+	color: #A8AA94;
+}
+{
+
+}
+header .logotext h1 span
+{
+	color:#E6EF01;
+}
+
+
+header nav
+{
+	
+	margin-bottom: 50px;
+	
+
+	
+}
+header nav ul li
+{
+	float: left;	
+	padding-right: 20px;
+	border:2px solid #635B53;
+	padding:15px 15px 15px 15px;
+	border-radius:10px;
+	margin-right: 10px;
+
+}
+header nav ul
+{
+	float:right;
+	list-style: none;
+	margin-top:40px;
+	margin-right:20px
+	
+
+}
+header nav ul li a
+{
+	
+	color:#fff;
+	text-decoration: none;
+	font-weight:bold;
+
+	
+}
+header nav ul li a:hover
+{
+color:#ECEF0E;
+}
+section
+{
+	width: 100%;
+	background-color: #F4F4EE;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+section .container
+{
+	background-color:#FFFFFF; 
+	height:970px;
+	margin:50px 200px 25px 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+div .content
+{
+	float: left;
+	width: 70%;
+}
+div .sidebar
+{
+	float: right;
+	width:30%;
+}
+section .container .content p
+{
+margin:25px 20px 25px 20px;
+}
+section .container .content p a
+{
+	color:#dbcd34;
+	text-decoration: none;
+}
+section .container .content h1
+{
+padding-top: 20px;
+padding-left: 20px;
+}
+section .container .content ul
+{
+	list-style: none;
+
+}
+section .container .content ul li
+{
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+section .container .sidebar p
+{
+margin:25px 20px 25px 0px;
+}
+section .container .sidebar h1
+{
+	padding-top: 20px;
+    padding-right: 20px;
+}
+section .container .sidebar a
+{
+    color:#dbcd34;
+	text-decoration: none;	
+}
+section .container .sidebar ul
+{
+	list-style: none;
+}
+section .a
+{
+	color:#dbcd34;
+	text-decoration:none;	
+}
+footer 
+{
+	text-align: center;
+	height:50px;
+	margin-top: 25px;
+	font-size: 17px;
+}
+footer p a
+{
+	text-decoration: none;
+	color:#5D5D5D;
+}
+footer p a:hover
+{
+	color:#dbcd34;
+}
+
+section .container .sidebar aside
+{
+	height:25%;
+	width:100%;
+	background-color:#F4F4EE;
+	border-radius: 20px; 
+	padding: 0 0 20px 20px ;
+	margin-right:50px;
+	margin-top: 5px;
+
+}
+section .container .sidebar .mm
+{
+	text-align: center;
+}
+
+section .container .sidebar .mm ul li
+{
+   padding-top: 10px;
+   padding-bottom:10px;
+   padding-right: 50px;
+   font-weight: bolder;
+}
+
+section .container .sidebar .ha a
+{
+	text-align: center;
+	display: block;
+	padding-right:10px;	
+}
+section .container .sidebar .mo a
+{
+	text-align: center;
+	display: block;
+	padding-right:10px;
+}
+section .container .sidebar .ed
+{
+    position: relative;
+
+}
+section .container .sidebar .ed form img
+{
+	top:70px;
+	position: absolute;
+	padding-left: 10px;
+}
+section .container .sidebar aside h2
+{
+	color:#38932C;
+}
+section .container .sidebar .ed form input{
+	padding:5px;
+	margin-left:30px;
+
+}
+section .container .sidebar aside h1
+{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
